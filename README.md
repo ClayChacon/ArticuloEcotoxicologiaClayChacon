@@ -1,1 +1,1 @@
-# ArticuloEcotoxicologiaClayChacon
+En este repositorio se tiene las imagenes, bases de datos y codigo que dieron solucion al protecto final de ecotoxicologia, mismo que se titula:  Evaluación de la calidad del agua en el río Yacuambi: Un enfoque en el hotspot de los Andes Tropicales y fue desaroolado por: Clay Chacón
